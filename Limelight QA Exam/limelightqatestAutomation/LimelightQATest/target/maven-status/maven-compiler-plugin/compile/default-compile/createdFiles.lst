@@ -1,0 +1,4 @@
+selenium\DriverFactory$1.class
+helpers\ScreenshotOnFailure.class
+selenium\DriverFactory.class
+tests\amazonTest\firstTest.class
